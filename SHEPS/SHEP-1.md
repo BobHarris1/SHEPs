@@ -7,7 +7,7 @@ author: masashi-shib <masashi.shib@outlook.com>
 created: 2021-06-06
 ---
 
-## What is an SHEP?
+## What is a SHEP?
 
 SHEP stands for SHIB Ecosystem Proposal. An SHEP is a design document, decision document providing information to the SHIB community, or describing a new initiative for SHIB Ecosystem. The SHEP should provide a concise technical specification of the feature (if possible) and a rationale for the feature. The SHEP author is responsible for building consensus within the community and documenting dissenting opinions.
 
@@ -21,7 +21,7 @@ We intend SHEPs to be the primary mechanisms for proposing new features, for col
 
 Parties involved in the process are you, the champion or *SHEP author*, the [*SHEP editors*](#shep-editors), and the *SHIB ARMY DEVs*.
 
-Before you begin writing a formal SHEP, you should vet your idea. Ask the SHIB community first if an idea is original to avoid wasting time on something that will be rejected based on prior research. It is thus recommended to open a discussion thread on [SHIB Discor Server] to do this, but you can also use [the SHIB subreddit] or [the Issues section of this repository]. 
+Before you begin writing a formal SHEP, you should vet your idea. Ask the SHIB community first if an idea is original to avoid wasting time on something that will be rejected based on prior research. It is thus recommended to open a discussion thread on [SHIB Discord Server] to do this, but you can also use [the SHIB subreddit] or [the Issues section of this repository]. 
 
 Once the idea has been vetted, your next responsibility will be to present (by means of an SHEP) the idea to the reviewers and all interested parties, invite editors, developers, and the community to give feedback on the aforementioned channels. You should try and gauge whether the interest in your SHEP is commensurate with both the work involved in implementing it and how many parties will have to conform to it. Negative community feedback will be taken into consideration and may prevent your SHEP from moving past the Draft stage.
 
