@@ -1,7 +1,7 @@
 ---
 shep: <to be assigned>
 title: RENVM Bridge Integration
-author: Bbo Harris (@BobHarris1)
+author: Bob Harris (@BobHarris1)
 discussions-to: none
 status: Draft
 created: 2021-06-06
@@ -14,13 +14,13 @@ RenVM's RenBridge "enables the simple wrapping of digital assets on different bl
 
 ## Motivation
 
-THis could allow users to take SHIB Coins and put it on the other chains in effect allowing investors on other blockchains to access SHIB Token.
+This could allow users to take SHIB Coins and put it on the other chains in effect allowing investors on other blockchains to access SHIB Token.
 
 This would allow us access to wraps with with the major Cryptos/protocols, as well as the up-and-coming (e.g. Avalanche... Best crypto protocol i've seen in terms of Speed, throughput and low fees). 
 
 ## Specification
 
-How to Request Shiba's inclusion: Submit a Pull Request via this instructions: https://github.com/renproject/multichain#readme
+How to Request Shiba's inclusion: Submit a Pull Request via these instructions: https://github.com/renproject/multichain#readme
 
 Basic summary of PR instructions: 
 1. Add the Asset/Chain
