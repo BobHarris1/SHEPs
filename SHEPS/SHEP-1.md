@@ -17,13 +17,13 @@ We intend SHEPs to be the primary mechanisms for proposing new features, for col
 
 ## SHEP Work Flow
 
-### Shepherding an SHEP
+### Shepherding a SHEP
 
 Parties involved in the process are you, the champion or *SHEP author*, the [*SHEP editors*](#shep-editors), and the *SHIB ARMY DEVs*.
 
 Before you begin writing a formal SHEP, you should vet your idea. Ask the SHIB community first if an idea is original to avoid wasting time on something that will be rejected based on prior research. It is thus recommended to open a discussion thread on [SHIB Discord Server] to do this, but you can also use [the SHIB subreddit] or [the Issues section of this repository]. 
 
-Once the idea has been vetted, your next responsibility will be to present (by means of an SHEP) the idea to the reviewers and all interested parties, invite editors, developers, and the community to give feedback on the aforementioned channels. You should try and gauge whether the interest in your SHEP is commensurate with both the work involved in implementing it and how many parties will have to conform to it. Negative community feedback will be taken into consideration and may prevent your SHEP from moving past the Draft stage.
+Once the idea has been vetted, your next responsibility will be to present (by means of a SHEP) the idea to the reviewers and all interested parties, invite editors, developers, and the community to give feedback on the aforementioned channels. You should try and gauge whether the interest in your SHEP is commensurate with both the work involved in implementing it and how many parties will have to conform to it. Negative community feedback will be taken into consideration and may prevent your SHEP from moving past the Draft stage.
 
 ### SHEP Process 
 
@@ -41,7 +41,7 @@ If this period results in necessary normative changes it will revert the SHEP to
 
 **Final** - This SHEP represents the final standard. A Final SHEP exists in a state of finality and should only be updated to correct errata and add non-normative clarifications.
 
-**Stagnant** - Any SHEP in `DRAFT` or `REVIEW` if inactive for a period of 6 months or greater is moved to `STAGNANT`. An SHEP may be resurrected from this state by Authors or SHEP Editors through moving it back to `DRAFT`.
+**Stagnant** - Any SHEP in `DRAFT` or `REVIEW` if inactive for a period of 6 months or greater is moved to `STAGNANT`. A SHEP may be resurrected from this state by Authors or SHEP Editors through moving it back to `DRAFT`.
 
 **Withdrawn** - The SHEP Author(s) have withdrawn the proposed SHEP. This state has finality and can no longer be resurrected using this SHEP number. If the idea is pursued at later date it is considered a new proposal.
 
@@ -83,7 +83,7 @@ If the SHEP isn't ready, the editor will send it back to the author for revision
 
 Once the SHEP is ready for the repository, the SHEP editor will:
 
-- Assign an SHEP number (generally the PR number or, if preferred by the author, the Issue # if there was discussion in the Issues section of this repository about this SHEP)
+- Assign a SHEP number (generally the PR number or, if preferred by the author, the Issue # if there was discussion in the Issues section of this repository about this SHEP)
 
 - Merge the corresponding pull request
 
